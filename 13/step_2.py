@@ -27,6 +27,10 @@ while True:
             item['found']  = True
             
     # step size if calculated way to often, but who cares...
+    # ( because all bus_id's are primes we can make the step
+    #   size as big as the product of the found items, this
+    #   will be the next number where the found items are
+    #   again 'valid')
     step = 1
     all_found = True
     for item in definition:
