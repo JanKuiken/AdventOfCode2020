@@ -61,8 +61,8 @@ print('\n\n  answer : ', value)
 
 # check for door/card switched
 value = 1
-subject_number = public_keys[1]
-for i in range(loop_sizes[0]):
+subject_number = public_keys[0]
+for i in range(loop_sizes[1]):
     value = (value * subject_number) % divider
 print('\n\n  answer : ', value)
 
