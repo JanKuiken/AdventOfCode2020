@@ -1,3 +1,4 @@
 # don't add the input files
-input.txt
-*/input.txt
+# 2021-01-03: add input files
+#input.txt
+#*/input.txt
