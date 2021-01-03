@@ -22,7 +22,7 @@ As an index for my future reference, puzzle title and my short description
 12. *Rain Risk* - [Route planning](https://github.com/JanKuiken/AdventOfCode2020/tree/main/12)
 13. *Shuttle Search* - [spoiler alert (priem getallen)](https://github.com/JanKuiken/AdventOfCode2020/tree/main/13)
 14. *Docking Data* - [geklooi met geheugen adressen en waardes...](https://github.com/JanKuiken/AdventOfCode2020/tree/main/14)
-15. *Rambunctious Recitation* - ["ik ga op vakantie en neem mee..." maar dan anders en met getallen](https://github.com/JanKuiken/AdventOfCode2020/tree/main/015
+15. *Rambunctious Recitation* - ["ik ga op vakantie en neem mee..." maar dan anders en met getallen](https://github.com/JanKuiken/AdventOfCode2020/tree/main/15)
 16. *Ticket Translation* - [wat is wat, en waarom niet...](https://github.com/JanKuiken/AdventOfCode2020/tree/main/16)
 17. *Conway Cubes* - [Wheew, Conway of game of live in meer dimensies](https://github.com/JanKuiken/AdventOfCode2020/tree/main/17)
 18. *Operation Order* - [Evaluatie boom, met instinkers (omdat het anders is!)](https://github.com/JanKuiken/AdventOfCode2020/tree/main/18)
